@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="hostdbmgd">
+      <HintPath>..\..\..\..\Downloads\NC_SDK_RU_24.0.6377.4326.7134(1)\include-x64\hostdbmgd.dll</HintPath>
+    </Reference>
+    <Reference Include="hostmgd">
+      <HintPath>..\..\..\..\Downloads\NC_SDK_RU_24.0.6377.4326.7134(1)\include-x64\hostmgd.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

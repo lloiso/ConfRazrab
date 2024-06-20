@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ConfRazrab": {
+      "commandName": "Project"
+    },
+    "nCad": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Nanosoft\\nanoCAD x64 24.0\\nCadS.exe",
+      "commandLineArgs": "-g $(TargetPath)"
+    }
+  }
+}
